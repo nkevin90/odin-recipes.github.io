@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    font-size: 30px;
+
+}
+
+.home{
+    text-decoration-color: blue;
+    font-size: 100%;
+    text-align: right;
+}
+#new{
+    font-weight: bold;
+    text-align: left;
+    vertical-align: top;
+    display: inline-block;
+}
+#head{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:link {
+    color: green;
+  }
+  
+/* visited link */
+a:visited {
+    color: green;
+  }
+  
+/* mouse over link */
+a:hover {
+    color: red;
+  }
+  
+/* selected link */
+a:active {
+    color: yellow;
+  }
